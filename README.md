@@ -1,6 +1,6 @@
 This is a basic script for searching product prices on Amazon.
 
-Saves product name and price to a CSV file. (You can easily modify it to save data as JSON or into a database.
+Saves product name and price to a CSV file. (You can easily modify it to save data as JSON or into a database).
 
 
 ### How to Use
