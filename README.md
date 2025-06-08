@@ -10,6 +10,7 @@ Saves product name and price to a CSV file. (You can easily modify it to save da
 1. Make sure you have Python 3 installed.
 2. Install required libraries:
     - beaufidulsoup4
+    - requests
 3. Run the script
 4. Enter the product you want to search for (e.g., `RTX 4090` or `Ryzen 5500G`).
 5. The matching results will be shown in the terminal and saved to `data.csv`.
