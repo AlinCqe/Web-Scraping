@@ -16,3 +16,7 @@ Saves product name and price to a CSV file. (You can easily modify it to save da
 ### Notes
     - The script uses regext to match flexible product names(e.g., with or with out spaces)
     - It filters out items that cointaint 'PC' or 'Computer'(case sensitive) to avoid prebuilt
+
+
+
+### THIS VERSION DOESNT GO THROUGH PAGES, ONLY SAVES DATA FROM THE FIRST ONE
