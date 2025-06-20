@@ -1,4 +1,4 @@
-This is a basic script for searching product prices on Amazon.
+This is a basic script for searching pc components prices on Amazon.
 
 Saves product name and price to a CSV file. (You can easily modify it to save data as JSON or into a database).
 
